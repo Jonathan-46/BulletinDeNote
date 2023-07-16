@@ -1,0 +1,60 @@
+h2{
+  text-align: center;
+  font-family: Times New Roman;
+  animation: 6s infinite;
+  animation-name: h2;
+}th{
+  width: 50%;
+  background-color: black;
+  color: white;
+}
+input{
+  width: 100%;
+}
+.Nathan{
+  text-align: center;
+}button{
+  font-size: 100%;
+  height: 5%;
+  width: 40%;
+  background-color: grey;
+  color: white;
+}button:hover{
+  background-color: blue;
+  color: white;
+}
+.Moyenne{
+  text-align: center;
+}
+.Jonathan{
+  text-align: center;
+}
+.Note{
+  width: 400px;
+  background-color: black;
+  color: white;
+}
+.Remarque{
+  width: 400px;
+  background-color: black;
+  color: white;
+}
+table{
+  text-align: center;
+  justify-content: center;
+}
+.TableMat{
+  color: black;
+  background-color: grey;
+}
+.Total{
+  color: white;
+}
+.TableMat2{
+  text-align: center;
+  width: 100%;
+  background-color: #c6c6c6ea;
+}
+body{
+  background-color: #d5d5d5ea;
+}
